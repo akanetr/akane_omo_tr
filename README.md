@@ -5,4 +5,4 @@ Used Google translate and [translator++](https://forums.rpgmakerweb.com/index.ph
 
 Please support the developers on [dlsite](https://www.dlsite.com/maniax/work/=/product_id/RJ271471.html).
 
-The game is unable to save due to using Github Pages.
+You can save the game unless you are in privacy mode of your browser.
